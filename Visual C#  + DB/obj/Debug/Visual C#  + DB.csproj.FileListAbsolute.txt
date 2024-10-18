@@ -1,0 +1,71 @@
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\mongocrypt.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Visual C#  + DB.exe.config
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Visual C#  + DB.exe
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Visual C#  + DB.pdb
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\AWSSDK.Core.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\DnsClient.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Google.Protobuf.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MongoDB.Bson.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MySql.Data.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\SharpCompress.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Snappier.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Buffers.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Memory.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\ZstdSharp.dll
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\AWSSDK.Core.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\DnsClient.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Google.Protobuf.pdb
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Google.Protobuf.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MongoDB.Bson.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\MySql.Data.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\Snappier.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Buffers.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Memory.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual C#  + DB.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual_C_____DB.Form1.resources
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual_C_____DB.Properties.Resources.resources
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual C#  + DB.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual C#  + DB.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual C.9CF1ED0A.Up2Date
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual C#  + DB.exe
+C:\Users\Laura\source\repos\Visual C#  + DB\Visual C#  + DB\obj\Debug\Visual C#  + DB.pdb
